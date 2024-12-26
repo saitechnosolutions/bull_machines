@@ -1,0 +1,30 @@
+.toggle-password {
+    float: right;
+    cursor: pointer;
+    margin-right: 10px;
+    margin-top: -25px;
+}
+
+.swal-custom-popup {
+    background-color: #333;
+    /* Dark background */
+    color: white;
+    /* White text */
+}
+
+.swal-custom-popup .swal2-title,
+.swal-custom-popup .swal2-text {
+    color: white !important;
+    /* Ensure the text is white */
+}
+
+.swal2-toast {
+    background-color: #333;
+    /* Dark background for toast */
+    color: white;
+    /* White text for toast */
+}
+
+#user_Log_off {
+    width: 100%;
+}
